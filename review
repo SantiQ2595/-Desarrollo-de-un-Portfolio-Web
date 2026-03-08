@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es"
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Mi Portfolio</title>
+    </head>
+    <body>
+        <header>
+            <h1>Bienvenido a mi Portfolio</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">Sobre mí</a></li>
+                    <li><a href="#projects">Proyectos</a></li>
+                    <li><a href="#contact">Contacto</a></li>
+                </ul>
+            </nav>
+        </header>
+    </main>
+        <section id="projects">
+            <h2>Proyectos</h2>
+            <ul>
+                <li>Proyecto 1: Sitio web de comercio electrónico</li>
+                <li>Proyecto 2: Aplicación de gestión de tareas</li>
+                <li>Proyecto 3: Blog personal</li>
+            </ul>
+        </section>
+         </main>
+         <footer>
+            <p>&copy; 2024 Mi Portfolio. Todos los derechos reservados.</p>
+         </footer>
