@@ -2,5 +2,11 @@ selector {
   propiedad: valor;
 }
 body {
-  background-color: lightgray;
+  font-family: Arial, sans-serif;
+}
+.proyecto {
+  border: 1px solid #ccc;
+}
+#header {
+  background-color: #333;
 }
